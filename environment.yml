@@ -1,0 +1,9 @@
+name: ric
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - opencv
+  - mypy
+  - pandas
+prefix: /home/rodri/anaconda3/envs/ric
