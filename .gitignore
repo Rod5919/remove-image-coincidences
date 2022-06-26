@@ -1,0 +1,7 @@
+.vscode
+.mypy_cache
+package/__pycache__
+out/*.xml
+out/*.jpg
+data/*.xml
+data/*.jpg
